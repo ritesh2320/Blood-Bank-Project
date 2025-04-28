@@ -42,6 +42,7 @@ The Blood Bank Management System is a project designed to simplify the managemen
    ```
 
 5. Run the application:
+   
    for client:
    ```bash
    npm start
