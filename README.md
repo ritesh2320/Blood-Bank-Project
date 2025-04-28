@@ -24,8 +24,8 @@ The Blood Bank Management System is a project designed to simplify the managemen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ritesh2320/blood-bank.git
-   cd blood-bank
+   https://github.com/ritesh2320/Blood-Bank-Project.git
+   cd Blood-Bank-Project
    ```
 
 2. Install dependencies:
